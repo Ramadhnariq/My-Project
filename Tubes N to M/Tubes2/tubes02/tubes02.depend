@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1641371392 source:c:\users\user\documents\kuliah\semester 3\strukdat\tubes2\tubes02\main.cpp
+	<iostream>
+	"list_child.h"
+	"list_parent.h"
+	"list_relasi.h"
+
+1641121631 c:\users\user\documents\kuliah\semester 3\strukdat\tubes2\tubes02\nton.h
+	<iostream>
+
+1640921868 source:c:\users\user\documents\kuliah\semester 3\strukdat\tubes2\tubes02\nton.cpp
+	"nton.h"
+
+1641227680 source:c:\users\user\documents\kuliah\semester 3\strukdat\tubes2\tubes02\list_child.cpp
+	"list_child.h"
+
+1641227955 c:\users\user\documents\kuliah\semester 3\strukdat\tubes2\tubes02\list_child.h
+	<iostream>
+
+1641371997 source:c:\users\user\documents\kuliah\semester 3\strukdat\tubes2\tubes02\list_parent.cpp
+	"list_parent.h"
+
+1641227803 c:\users\user\documents\kuliah\semester 3\strukdat\tubes2\tubes02\list_parent.h
+	<iostream>
+
+1641371324 c:\users\user\documents\kuliah\semester 3\strukdat\tubes2\tubes02\list_relasi.h
+	"list_relasi.h"
+	"list_child.h"
+	"list_parent.h"
+	<iostream>
+	<stdio.h>
+	<unistd.h>
+
+1641371712 source:c:\users\user\documents\kuliah\semester 3\strukdat\tubes2\tubes02\list_relasi.cpp
+	"list_relasi.h"
+
